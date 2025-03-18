@@ -1,6 +1,9 @@
-public static void main()
-  {
-  System.out.println("This program for goods purchase in purchase module");
-  System.out.println("This is updated goods purchase module");
-  System.out.println("Next updata");
+class HelloWorld {
+    
+    // Your program begins with a call to main().
+    // Prints "Hello, World" to the terminal window.
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World");
+    }
 }
